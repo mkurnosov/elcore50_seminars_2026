@@ -69,5 +69,9 @@ ls eltay-sc-sdk/buildroot/output/target/usr/lib/modules/6.6.30/updates/elcore50.
 
 **5. Записываем образ на SD-карту**
 
+```
+sudo buildroot/output/images/tar2dev -n eltay-sc buildroot/output/images/rootfs.tar.gz /dev/sdX
+sync
+```
 
 
