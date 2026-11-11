@@ -5,3 +5,6 @@ Seminars on ELVEES ELcore50 processor architecture (VLIW SIMD DSP)
 
 * SoC Гиперком-У (К1892ВМ21Я): https://support.elvees.com/docs/Microchips/K1892VM21YA/
 * SBC ELTAY SC: https://elron.tech/odnoplatnyj-kompjuter-eltay-sc-na-rossijskom-processore-copy/
+
+* Youtube: https://www.youtube.com/playlist?list=PLCD_8lkGd17I
+* https://www.mkurnosov.net/teaching/elcore50/
